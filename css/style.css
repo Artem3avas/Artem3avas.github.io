@@ -1,0 +1,26 @@
+body{
+    background-color: lightsalmon ;
+}
+p{
+    color: red;
+}
+#para1{
+    color: blue;
+}
+.colortext{
+    color: green;
+}
+div #main{
+    color: black;
+}
+ h1 , p {
+     color: lime;
+ }
+ li:before{
+    content: '>';
+    margin-right: 5px;
+}
+li{
+    list-style-type: none;
+    margin-left: -40px;
+}
