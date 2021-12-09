@@ -1,0 +1,42 @@
+h1{
+    float: left;
+    color: white;
+    position: relative;
+    left: 450px;
+    margin-top: 33px;
+}
+header{
+    background-image: url(../img/Rectangle.png);
+    margin: auto;
+    width: 1920px;
+    height: 750px;
+}
+#blue{
+    color: blue;
+    float: left;
+}
+ul.interactions{
+    position: relative;
+    left: 702px;
+    list-style-type: none;
+    display: flex;
+    margin-top: 47px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+div{
+    border: solid;
+    border-color: white;
+    width: auto;
+    height: 109px;
+}
+.contacts{
+    position: relative;
+    left: 1413px;
+    list-style-type: none;
+    margin-top: -40px;
+}
